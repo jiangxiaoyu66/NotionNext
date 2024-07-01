@@ -44,7 +44,7 @@ const LayoutBase = (props) => {
         </div>
 
         {/* 底部页脚 */}
-        <Footer />
+
     </div>
 }
 

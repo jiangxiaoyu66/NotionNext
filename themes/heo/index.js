@@ -120,7 +120,7 @@ const LayoutBase = props => {
       </main>
 
       {/* 页脚 */}
-      <Footer title={siteConfig('TITLE')} />
+
     </div>
   )
 }

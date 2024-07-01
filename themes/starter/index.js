@@ -64,7 +64,7 @@ const LayoutBase = props => {
 
       {children}
 
-      <Footer {...props} />
+
 
       {/* 悬浮按钮 */}
       <BackToTopButton />

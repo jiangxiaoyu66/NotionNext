@@ -131,7 +131,7 @@ const LayoutBase = (props) => {
             </div>
 
             {/* 页脚 */}
-            <Footer title={siteConfig('TITLE')} />
+
         </div>
       </ThemeGlobalNext.Provider>
   )

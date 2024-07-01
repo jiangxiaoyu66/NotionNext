@@ -127,7 +127,7 @@ const LayoutBase = props => {
         {/* 搜索框 */}
         <AlgoliaSearchModal cRef={searchModal} {...props} />
 
-        <Footer {...props} />
+
       </div>
     </ThemeGlobalSimple.Provider>
   )

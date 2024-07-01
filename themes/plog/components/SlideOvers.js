@@ -65,7 +65,7 @@ export default function SlideOvers({ children, cRef }) {
                                             <h2 className='text-2xl text-gray-400'>{siteConfig('BIO')}</h2>
                                             <h2 className='text-4xl text-gray-200'>联系我</h2>
                                             <SocialButton/>
-                                            <Footer/>
+
                                         </div>
                                     </Transition.Child>
                                 </Dialog.Panel>

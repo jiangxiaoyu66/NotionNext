@@ -107,7 +107,7 @@ const LayoutBase = props => {
           {/* 右侧 */}
           <main className='flex-grow w-full h-full flex flex-col min-h-screen overflow-x-auto md:p-2'>
             <div className='flex-grow h-full'>{children}</div>
-            <Footer />
+
           </main>
         </div>
 

@@ -160,7 +160,7 @@ const LayoutBase = props => {
                   <NavPostList filteredNavPages={filteredNavPages} />
                 </div>
                 {/* 页脚 */}
-                <Footer {...props} />
+
               </div>
             </div>
           )}
@@ -197,7 +197,7 @@ const LayoutBase = props => {
 
             {/* 底部 */}
             <div className='md:hidden'>
-              <Footer {...props} />
+
             </div>
           </div>
 

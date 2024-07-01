@@ -109,7 +109,7 @@ const LayoutBase = props => {
       <RightFloatArea floatSlot={floatSlot} />
 
       {/* 页脚 */}
-      <Footer {...props} />
+
     </div>
   )
 }

@@ -104,7 +104,7 @@ const LayoutBase = props => {
                         </div>
 
                         {/* 底部 */}
-                        <Footer title={siteConfig('TITLE')} />
+
                     </div>
 
                     {/* 桌面端右侧 */}
